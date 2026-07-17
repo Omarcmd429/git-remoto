@@ -4,3 +4,25 @@ comando para clave ssh
 ssh-keygen -t ed25519 -C "alicervantes554@gmail.com
 
 Nueva linea agregada en rama test1
+
+Git Fork - Es una copia de un repositorio, permite haccer cambios en ese repo sin afectar al original, 
+copia independiente, 
+
+El git clone permite clonar el repo, crea una copia local completo de ramas y todo
+se usa para trabajar proyecto en propia maquina,
+
+ell fork crea una copia del repo en mi github, es independiente del repo original proyecto
+pero se pueden sincronizar cambios del original
+
+Git - flow es una motodologia para gestionar ramas en un repo de git
+Manejaa rama principal (main o master) codigo en produccion
+Rama de desarrollo (develop) preparacion para proximo lanzamiento
+Rama de caracteristicas (features) Nueva caracteristica de develop y luego se fusiona  con develop
+Rama release se utiliza para correciones de errores y preparar codigo para  lanzamiento y se funciona en
+main y develop
+Rama hotfix a partir de main, cuando corregimos error crítico en produccion y despues se funciona
+Rama de soporte Opcional para versiones específicas de software
+
+GitHubFLow - Ligero, en entornos con despliegues con frecuencia
+
+
