@@ -3,6 +3,7 @@ JEJE yes
 comando para clave ssh 
 ssh-keygen -t ed25519 -C "alicervantes554@gmail.com
 
+<<<<<<< HEAD
 Nueva linea agregada en rama test1
 
 Git Fork - Es una copia de un repositorio, permite haccer cambios en ese repo sin afectar al original, 
@@ -24,5 +25,4 @@ Rama hotfix a partir de main, cuando corregimos error crítico en produccion y d
 Rama de soporte Opcional para versiones específicas de software
 
 GitHubFLow - Ligero, en entornos con despliegues con frecuencia
-
 
