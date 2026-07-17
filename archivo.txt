@@ -25,4 +25,7 @@ Rama hotfix a partir de main, cuando corregimos error crítico en produccion y d
 Rama de soporte Opcional para versiones específicas de software
 
 GitHubFLow - Ligero, en entornos con despliegues con frecuencia
-
+Crear una rama
+Hacer commit
+Preparar pull request
+git push
